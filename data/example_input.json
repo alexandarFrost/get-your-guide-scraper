@@ -1,0 +1,10 @@
+{
+  "query": "Bali",
+  "limit": 10,
+  "filters": {
+    "min_price": 40,
+    "max_price": 150,
+    "min_rating": 4.0,
+    "category": "Adventure"
+  }
+}
