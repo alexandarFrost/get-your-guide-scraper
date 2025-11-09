@@ -1,0 +1,9 @@
+{
+  "query": "Jakarta",
+  "limit": 5,
+  "filters": {
+    "min_price": 50,
+    "min_rating": 4.0
+  },
+  "proxy": null
+}
